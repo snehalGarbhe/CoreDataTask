@@ -1,0 +1,20 @@
+PODS:
+  - BNRCoreDataStack (2.3.1)
+  - JGProgressHUD (2.0.3)
+
+DEPENDENCIES:
+  - BNRCoreDataStack
+  - JGProgressHUD
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BNRCoreDataStack
+    - JGProgressHUD
+
+SPEC CHECKSUMS:
+  BNRCoreDataStack: d9d7d0ed1afd27dca5a903dde1250aa4c6dbc3f5
+  JGProgressHUD: 12b20a8f4ffe05258f8635c1ab92816e451f904d
+
+PODFILE CHECKSUM: ccc3dec86c5dacee89059287bd7e0507ed65ab89
+
+COCOAPODS: 1.5.3
